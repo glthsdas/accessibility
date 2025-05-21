@@ -1,0 +1,25 @@
+Welcome to "Creating Accessible Documents: A Beginner's Guide." In the next few minutes, we'll explore how to make your documents accessible to everyone, including people with disabilities. Whether you're creating Word documents, PDFs, or other digital files, these principles will help ensure that all users can access and understand your content.
+
+Why does accessibility matter? One in four adults in the United States has some type of disability. This includes visual, hearing, motor, and cognitive impairments. When we create accessible documents, we're not designing for a small minority – we're ensuring that our information can reach everyone. Accessible documents are also generally more usable for all people, including those without disabilities.
+
+While web accessibility focuses on making online content accessible through proper HTML structure and ARIA attributes, document accessibility applies similar principles to files like PDFs, Word documents, and presentations. Many of the same concepts apply to both, but today we'll focus primarily on documents. Let's dive into the key principles.
+
+First and foremost is document structure. Just like a well-built house needs a solid framework, your document needs a logical structure. Use proper heading levels (H1, H2, H3) in sequential order. This creates an outline that helps screen reader users navigate through your content. Never skip heading levels – going from an H1 directly to an H3 is like building a staircase with missing steps.
+
+Images need alternative text, or "alt text," to be accessible. Alt text provides a textual description of images for people who cannot see them. When writing alt text, be concise but descriptive. Focus on the purpose and content of the image. For decorative images, you can mark them as such so screen readers will skip them. For complex charts or graphs, provide a brief alt text and a longer description in the surrounding text.
+
+Color and formatting choices significantly impact accessibility. Ensure text and background colors have sufficient contrast – a ratio of at least 4.5:1 for normal text and 3:1 for large text. Use sans-serif fonts at a minimum of 12-point size for better readability. Avoid using italics, all caps, or justified text, which can be difficult to read for many users, especially those with dyslexia or cognitive disabilities.
+
+When adding links to your documents, use descriptive link text instead of generic phrases like "click here" or bare URLs. Good link text clearly indicates where the link will take the user. Compare "For more information, click here" with "View our Accessibility Guidelines for more information." The second example gives context even when links are viewed in isolation, which is how many screen reader users navigate.
+
+Tables and lists require special attention. For tables, always identify header rows and columns, avoid merged cells, and include a caption explaining the table's purpose. For lists, use built-in formatting tools rather than manually typing symbols or numbers. This ensures proper structure and navigation for screen reader users.
+
+Never embed important text within images – screen readers can't access it. If you must include text in graphics, be sure to repeat that information in the document text or alt text. Additionally, ensure your document follows a logical reading order, especially in complex layouts or when converting to PDF. The order content appears visually should match the order it's read by assistive technology.
+
+Before sharing your document, check its accessibility. Most modern software includes built-in accessibility checkers. In Microsoft Office, you can find this under Review > Check Accessibility. These tools identify issues and offer suggestions for fixing them. Make checking accessibility part of your regular workflow – it's much easier than retrofitting accessibility later.
+
+Set the primary language of your document to help screen readers pronounce content correctly. Also, embrace plain language – writing in clear, concise terms benefits everyone, especially users with cognitive impairments or learning difficulties. Avoid jargon, use active voice, and keep sentences short when possible.
+
+Creating accessible documents isn't just a legal requirement in many contexts – it's about ensuring everyone has equal access to information. We've covered the basics today, but there's always more to learn. Check out resources like WebAIM.org to deepen your knowledge. Remember, accessibility isn't an afterthought – it's a fundamental part of quality document creation.
+
+Thank you for watching! By implementing these principles, you're helping create a more inclusive information environment for everyone.
