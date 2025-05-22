@@ -2,5 +2,5 @@
 
 ## General
 
-This repository serves as storage for GLTHS accessibility text.
+This repository serves as storage for GLTHS alternative versions, transcripts, & more.
 
